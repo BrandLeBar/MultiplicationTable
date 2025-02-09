@@ -1,7 +1,7 @@
 ﻿'Brandon Barrera
 'Spring 2025
 'RCET2265
-'Better Calculator
+'Multiplication Table 
 'https://github.com/BrandLeBar/MultiplicationTable_BB.git
 
 Option Compare Text
