@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'Multiplication Table 
-'https://github.com/BrandLeBar/MultiplicationTable_BB.git
+'https://github.com/BrandLeBar/MultiplicationTable.git
 
 Option Compare Text
 Option Strict On
