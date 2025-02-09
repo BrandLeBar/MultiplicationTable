@@ -1,4 +1,14 @@
-﻿Module MultplicationTable
+﻿'Brandon Barrera
+'Spring 2025
+'RCET2265
+'Better Calculator
+'https://github.com/BrandLeBar/MultiplicationTable_BB.git
+
+Option Compare Text
+Option Strict On
+Option Explicit On
+
+Module MultplicationTable
 
     Sub Main()
         Dim userInput As Integer
